@@ -3,8 +3,8 @@
 <br/>
 
 ## 🧠 O que é o MITRE ATT&CK?
-MITRE é uma organização e ATT&CK é um framework. Esse framework é uma base de conhecimento sobre comportamento de ataque. O conhecimento desse framework pode ser utilizado por estudantes ou até especialista de cibersegurança para entender metodologias de ameaças digitais frequentes. <br/><br/>
-O ATT&CK contém conhecimentos que podem ser usadas para especialistas da área de segurança digital auxiliar na criação e melhoria de mecanismos de detecção. O framework informa como pensa e age um blue team ou um Analista SOC diantes de ameaças digitais, como pensa um atacante e seus processos antes do ataque, entre outros.
+MITRE é uma organização e ATT&CK é um framework. Esse framework é uma base de conhecimento sobre comportamento de ataque. O conhecimento desse framework pode ser utilizado por estudantes ou até especialistas de cibersegurança para entender metodologias de ameaças digitais frequentes. <br/><br/>
+O ATT&CK contém conhecimentos que podem ser usados por especialistas da área de segurança digital para auxiliar na criação e melhoria de mecanismos de detecção. O framework informa como pensa e age um blue team ou um Analista SOC diantes de ameaças digitais, como pensa um atacante e seus processos antes do ataque, entre outros.
 
 <br/>
 
