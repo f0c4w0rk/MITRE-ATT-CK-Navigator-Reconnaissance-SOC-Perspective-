@@ -24,6 +24,6 @@ Para que analistas SOC usam isso
 (depois) Escopo e limitações#
 
 FONTES: <br/>
-https://attack.mitre.org/?utm_source=chatgpt.com <br/>
-https://www.paloaltonetworks.com.br/cyberpedia/what-is-mitre-attack-framework?utm_source=chatgpt.com <br/>
+https://attack.mitre.org/?.com <br/>
+https://www.paloaltonetworks.com.br/cyberpedia/what-is-mitre-attack-framework?.com <br/>
 etc...
