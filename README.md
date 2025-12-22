@@ -1,1 +1,1 @@
-# MITRE ATT&CK Navigator Reconnaissance (SOC Perspective)
+# MITRE ATT&CK Navigator<br/>Reconnaissance (SOC Perspective)
