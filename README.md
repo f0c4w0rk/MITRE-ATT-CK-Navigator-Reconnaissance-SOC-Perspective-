@@ -15,7 +15,9 @@ Na perspectiva de um Analista SOC, a ferramenta ATT&CK Navigator é utilizada pa
 
 <br/>
 
-Para que analistas SOC usam isso
+## (Para que analistas SOC usam isso)
+
+
 
 (depois) Objetivo do projeto
 
@@ -24,6 +26,6 @@ Para que analistas SOC usam isso
 (depois) Escopo e limitações#
 
 FONTES: <br/>
-https://attack.mitre.org/?.com <br/>
-https://www.paloaltonetworks.com.br/cyberpedia/what-is-mitre-attack-framework?.com <br/>
+[https://attack.mitre.org/?.com <br/>](https://attack.mitre.org/?utm_source=chatgpt.com)
+[https://www.paloaltonetworks.com.br/cyberpedia/what-is-mitre-attack-framework?.com <br/>](https://www.paloaltonetworks.com/cyberpedia/what-is-mitre-attack?utm_source=chatgpt.com)
 etc...
