@@ -8,14 +8,17 @@ O ATT&CK contém conhecimentos que podem ser usados por especialistas da área d
 
 <br/>
 
-## O que é o ATT&CK Navigator
+## 🛠️ O que é o ATT&CK Navigator
 O MITRE ATT&CK Navigator é uma ferramenta e interface visual web com código aberto para trabalhar com o framework MITRE ATT&CK. Ele permite que analistas visualizem, filtrem, anotem, comparem e customizem técnicas e táticas de ataque por meio de camadas (layers). 
 
 Na perspectiva de um Analista SOC, a ferramenta ATT&CK Navigator é utilizada para auxiliar no monitoramento, detecção e análise de ameaças digitais. A ferramenta ajuda a reduzir o risco que as ameaças digitais venham a apresentar a uma organização, pois fortalece a antecipação de padrões de ataque e a melhoria contínua dos mecanismos de detecção.
 
 <br/>
 
-## (Para que analistas SOC usam isso)
+Última Atualização : "04/01/2026"
+
+<!-- 
+## 👀 (Para que analistas SOC usam isso) 
 
 
 
@@ -29,3 +32,5 @@ FONTES: <br/>
 [https://attack.mitre.org/?.com <br/>](https://attack.mitre.org/?utm_source=chatgpt.com)
 [https://www.paloaltonetworks.com.br/cyberpedia/what-is-mitre-attack-framework?.com <br/>](https://www.paloaltonetworks.com/cyberpedia/what-is-mitre-attack?utm_source=chatgpt.com)
 etc...
+
+-->
