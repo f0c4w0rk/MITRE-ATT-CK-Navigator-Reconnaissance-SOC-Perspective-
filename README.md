@@ -15,7 +15,7 @@ Na perspectiva de um Analista SOC, o Navigator é essencial para o monitoramento
 
 <!--- O que a layer representa --->
 ## O que é layer?
-Layer é um artefato/arquivo de visualização usado dentro do MITRE ATT&CK Navigator, usado para anotar táticas, técnicas e subtécnicas de maneira ampla, fornecendo oportunidade para fazer análises detalhados, representação a análises por cores, organizar, auxiliar-se, exportar o conteúdo em arquivo .json, entre outros. O layer é primeira opção acionada no web-framework pelo Analista antes de começar a atuar.
+Layer é um artefato/arquivo de visualização usado dentro do MITRE ATT&CK Navigator, para anotar táticas, técnicas e subtécnicas de maneira ampla, fornecendo oportunidade para fazer análises detalhados, representação a análises por cores, organizar, auxiliar-se, exportar o conteúdo em arquivo .json, entre outros. O layer é primeira opção acionada no web-framework pelo Analista antes de começar a atuar.
 <!--- Como abrir a layer no ATT&CK Navigator --->
 Para abrir o layer no ATT&CK Navigator, primeiro acesse o site MITRE ATT&CK Navigator, selecionamos a opção no meio da tela "Create New Layer | Create a new empty layer", se estiver no computador, selecione Enterprise ATT&CK e pronto, você está utilizando a layer pronta para funcionar.
 
