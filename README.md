@@ -1,6 +1,6 @@
 <!--- Objetivo do projeto --->
 # Objetivo do Projeto
-O objetivo deste projeto é avaliar o que é, identificar as principais táticas, técnicas e subtécnicas extraindo essas informações do MITRE ATT&CK Navigator, analisar onde são usado e mapear todas as 11 técnicas de reconhecimento utilizada pelas ameaças digitais. O mapeamento das técnicas de reconhecimento serão anotados na pasta "layers" e "docs" encontrados no início da página principal do projeto.
+O objetivo deste projeto é avaliar o que é, identificar as principais táticas, técnicas e subtécnicas extraindo essas informações do MITRE ATT&CK Navigator, analisar onde são usados e mapear todas as 11 técnicas de reconhecimento utilizada pelas ameaças digitais. O mapeamento das técnicas de reconhecimento serão anotados na pasta "layers" e "docs" encontrados no início da página principal do projeto.
 
 <br/>
 
