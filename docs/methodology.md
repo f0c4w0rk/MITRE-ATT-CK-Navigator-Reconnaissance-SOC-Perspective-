@@ -1,65 +1,12 @@
-## Metodologia de Análise de Reconhecimento (SOC Perspective)
-
-
-
-<!---
-
-🧠 1. Scope do Projeto (Escopo)
-
-O que você está analisando
-
-O que NÃO está analisando
-
-!--->
-
-O projeto analisa apenas as técnicas da tática de reconhecimento, sendo deliberadamente limitado se utilizado profissionalmente.
-
-<!---
-
-🧪 2. Abordagem de Análise
-
-Como você usa o MITRE Navigator
-
-Como seleciona técnicas
-
-Como classifica risco
+# Detection Methodology – Reconnaissance (SOC Perspective)
+Toda a análise do projeto foi efetuada por um estudante, na perspectiva SOC baseado em Blue Team Mindset.
+> *(O projeto analisa apenas as técnicas de reconhecimento utilizando somente o web-framework da MITRE, o ATT&CK, não foi documentado técnicas de Initial access, Execution, Persistence, entre as outras táticas. Trata-se de um projeto deliberadamente limitado fora da ideia teórica de estudo e aprendizado na qual teve desde o início)*
 
 ---
 
-📊 3. Critérios de Avaliação
+## Por que Reconnaissance
+A fase de reconhecimento é a primeira façanha dos atacantes, pois garante baixa visibilidade em comparação com outras táticas.
 
-Ruído
-
-Visibilidade
-
-Impacto
-
-Intenção
+Se for detectado qualquer técnica da fase de reconhecimento, reduz maiores riscos que poderiam ser causados.
 
 ---
-
-🔍 4. Processo de Mapeamento
-
-Passos técnicos:
-
-Escolher técnica
-
-Mapear logs
-
-Definir detecção
-
-Documentar no layer
-
-Escrever racional
-
----
-
-🧱 5. Limitações do Projeto
-
-Teórico
-
-Sem SIEM real
-
-Sem logs reais
-
-!--->
