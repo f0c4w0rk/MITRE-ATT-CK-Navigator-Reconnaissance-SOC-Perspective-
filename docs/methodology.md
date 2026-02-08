@@ -13,7 +13,7 @@ Se for detectado qualquer técnica da fase de reconhecimento, reduz maiores risc
 ### Critérios de Análise:
 Estes são os critérios seguidos por um analista SOC:
 - ##### Intenção do atacante: roubar dados financeiros, nomes, credenciais, etc... 
-- ##### Nível de ruído: Dificuldade de identificar se é uma ação maliciosa ou apenas uma requisição legítima.
+- ##### Nível de ruído: Dificuldade de identificar se é uma ação maliciosa ou apenas uma requisição legítima confundida.
 - ##### Visibilidade para o SOC: A visibilidade diz o quão difícil é detectar a técnica utilizada pelo atacante.
 - ##### Impacto defensivo: Quais impactos poderíam ter na organização se não for detectado ainda na fase de reconhecimento.
 
