@@ -1,25 +1,16 @@
 <!--- Objetivo do projeto --->
-# O que é o Projeto?
-&emsp; O Projeto MITRE ATT&CK Navigator é um mapeamento defensivo de técnicas da tática "Reconnaissance", efetuado na perspectiva de um Analista SOC. Sua estrutura consiste em uma layer personalizada criada por mim. Essa layer pode ser utilizada para relacionar técnicas de reconhecimento com fontes de logs e métodos de detecção realistas. Além disso, na pasta "docs" está documentado as premissas das do modelo de ameaça, limitações e a lógica de detecção seguida por uma equipe Blue Team e como avaliam cobertura defensiva.  
-
+# O Que É O Projeto?
+&emsp; O Projeto MITRE ATT&CK Navigator é um mapeamento defensivo de técnicas da tática Reconnaissance, efetuado na perspectiva de um Analista SOC. <br/>
+&emsp; Sua estrutura consiste em uma layer personalizada criada por mim. Essa layer é utilizada para gap analysis focado entre as técnicas de Reconnaissance do MITRE ATT&CK e fontes de logs, métodos de detecção realistas e o que realmente pode ser detectado em um ambiente corporativo típico, e quais ficariam invisíveis para um SOC. Além disso, na pasta "docs" estão documentadas as premissas do threat model, limitações e a lógica de detecção seguida por uma equipe Blue Team, além de como avaliam defensive coverage.<br/>
+&emsp; Esse projeto desenvolve um engineering mindset focado na fase inicial da kill chain, mapeando telemetry sources, possíveis detecções e blind spots. Além disso, serve como demonstração de portfolio, exibindo cada técnica específica do ATT&CK e documentando-as em um modelo defensivo operacional.
 <br/>
 
-&emsp;
+## O Que O Projeto Não É:
+Implementando alguns limites do projeto:  <br/>
+- *Não se trata de uma implementação real de SOC.*  <br/>
+- *Não é uma detecção de produção.*  <br/>
+- *Projeto de pesquisa educacional.*  <br/>
 
-<br/>
+Mais informações sobre os limites do projeto estão no arquivo "limitations.md", dentro da pasta "docs".
 
-## MITRE ATT&CK Navigator<br/>Reconnaissance (SOC Perspective)
-O MITRE ATT&CK (Adversarial Tactics, Techniques & Common Knowledge) é uma base de conhecimento mantida pela organização MITRE sobre comportamentos de ataque. Esse framework é utilizado por especialistas de cibersegurança para identificar metodologias de ameaças digitais frequentes, auxiliando na criação e melhoria de mecanismos de detecção. Ele detalha como pensa e age um Analista SOC (Blue Team) diante de ameaças, além de avaliar os processos e o pensamento do atacante antes de uma ofensiva.
-
-Para operar esse framework, utiliza-se o MITRE ATT&CK Navigator, uma ferramenta visual web de código aberto que permite aos analistas visualizar, filtrar, anotar, comparar e customizar técnicas e táticas de ataque por meio de camadas (layers).
-
-Na perspectiva de um Analista SOC, o Navigator é essencial para o monitoramento, detecção e análise de ameaças. A ferramenta auxilia na redução de riscos organizacionais, pois fortalece a antecipação de padrões de ataque e promove a melhoria contínua das defesas, focando especialmente na fase de Reconhecimento (Reconnaissance).
-
-<br/>
-
-<!--- O que a layer representa --->
-## O que é layer?
-Layer é um artefato/arquivo de visualização usado dentro do MITRE ATT&CK Navigator, para anotar táticas, técnicas e subtécnicas de maneira ampla, fornecendo oportunidade para fazer análises detalhados, representação a análises por cores, organizar, auxiliar-se, exportar o conteúdo em arquivo .json, entre outros. O layer é primeira opção acionada no web-framework pelo Analista antes de começar a atuar.
-<!--- Como abrir a layer no ATT&CK Navigator --->
-Para abrir o layer no ATT&CK Navigator, primeiro acesse o site MITRE ATT&CK Navigator, selecionamos a opção no meio da tela "Create New Layer | Create a new empty layer", se estiver no computador, selecione Enterprise ATT&CK e pronto, você está utilizando a layer pronta para funcionar.
-
+## Escôpo e Objetivos do Projeto:
