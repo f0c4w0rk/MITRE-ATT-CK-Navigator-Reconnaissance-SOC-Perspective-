@@ -1,6 +1,10 @@
 <!--- Objetivo do projeto --->
-# Objetivo do Projeto
-O objetivo deste projeto é avaliar o que é, identificar as principais táticas, técnicas e subtécnicas extraindo essas informações do MITRE ATT&CK Navigator, analisar onde são usados e mapear todas as 11 técnicas de reconhecimento utilizada pelas ameaças digitais. O mapeamento das técnicas de reconhecimento serão anotados na pasta "layers" e "docs" encontrados no início da página principal do projeto.
+# O que é o Projeto?
+&emsp; O Projeto MITRE ATT&CK Navigator é um mapeamento defensivo de técnicas da tática "Reconnaissance", efetuado na perspectiva de um Analista SOC. Sua estrutura consiste em uma layer personalizada criada por mim. Essa layer pode ser utilizada para relacionar técnicas de reconhecimento com fontes de logs e métodos de detecção realistas. Além disso, na pasta "docs" está documentado as premissas das do modelo de ameaça, limitações e a lógica de detecção seguida por uma equipe Blue Team e como avaliam cobertura defensiva.  
+
+<br/>
+
+&emsp;
 
 <br/>
 
