@@ -1,5 +1,5 @@
 <!--- Objetivo do projeto --->
-# O Que É O Projeto?
+# O Projeto:
 
 &emsp; O Projeto MITRE ATT&CK Navigator é um mapeamento defensivo de técnicas da tática Reconnaissance, efetuado na perspectiva de um Analista SOC (Blue Team). <br/>
 
