@@ -1,5 +1,5 @@
 <!--- Objetivo do projeto --->
-# O Projeto:
+# Visão Geral do Projeto:
 
 &emsp; O Projeto MITRE ATT&CK Navigator é um mapeamento defensivo de técnicas da tática Reconnaissance, efetuado na perspectiva defensiva Blue Team. <br/>
 
@@ -14,20 +14,23 @@ Definição de limites do projeto: <br/>
 - *Não se trata de uma implementação real de SOC.* <br/>
 - *Não é uma detecção de produção.* <br/>
 - *Projeto de pesquisa educacional.* <br/>
-- *Dados baseados no web-framework ATT&CK.* <br/>
 - *Sem SIEM real* <br/>
 
 Mais informações sobre os limites do projeto estão no arquivo "limitations.md", dentro da pasta "docs".
 
 ## Objetivo do Projeto:
 
-&emsp;  O objetivo central do projeto é mapear técnicas de Reconnaissance, trazendo à tona as principais ações que os atacantes utilizam na primeira fase da kill chain, mapeamento de telemetry sources relevantes para detecção, avaliar detection coverage, documentar detecções hipotéticas e também boas práticas para detectar potencial ataque ou falsos positivos. <br/>
+&emsp;  O objetivo central do projeto são:
+- *Mapear técnicas de Reconnaissance, identificando as principais práticas que os atacantes utilizam na primeira fase da kill chain.* <br/>
+- *Identificação de telemetry sources relevantes para detecção.* <br/>
+- *Avaliar detection coverage e documentar detecções hipotéticas.* <br/>
+- *Documentar boas práticas para detectar potencial ataque ou falsos positivos.* <br/>
 
 ## Estrutura do Repositório:
 
 A estrutura do projeto e os conteúdos de cada parte:
 
-- */layers<br/>*
-- */docs* - "threat model", "methodology", "detection rationale" e "limitations".* <br/>
+- */layers - ATT&CK Navigator layer (.json).* <br/>
+- */docs - "threat model", "methodology", "detection rationale" e "limitations".* <br/>
 - */docs/techniques - documentação de técnica por técnica da tática reconnaissance.* <br/>
-- *README.md - Visão Geral do Projeto.* <br/>
+- *README.md - Visão Geral do Projeto.*
