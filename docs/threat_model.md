@@ -1,1 +1,1 @@
-
+# Escopo e Premissas
