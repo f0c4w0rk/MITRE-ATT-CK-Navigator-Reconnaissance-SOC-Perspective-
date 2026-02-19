@@ -18,9 +18,9 @@ Definição de limites do projeto: <br/>
 
 Mais informações sobre os limites do projeto estão no arquivo "limitations.md", dentro da pasta "docs".
 
-## Objetivo do Projeto:
+## Objetivos do Projeto:
 
-&emsp;  O objetivo central do projeto são:
+&emsp;  Os objetivos centrais do projeto são:
 - *Mapear técnicas de Reconnaissance, identificando as principais práticas que os atacantes utilizam na primeira fase da kill chain.* <br/>
 - *Identificação de telemetry sources relevantes para detecção.* <br/>
 - *Avaliar detection coverage e documentar detecções hipotéticas.* <br/>
